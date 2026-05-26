@@ -4,3 +4,5 @@ yfinance
 matplotlib
 seaborn
 jupyter
+statsmodels
+scikit-learn
