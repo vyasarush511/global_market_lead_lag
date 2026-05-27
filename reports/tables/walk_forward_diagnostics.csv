@@ -1,0 +1,2 @@
+index,days,invested_days,exposure,long_days,short_days,cash_days,num_trades,avg_daily_turnover,invested_win_rate,avg_invested_return,median_invested_return,best_day,worst_day
+Walk-Forward Selected Strategy,2257.0,334.0,0.1479840496233939,144.0,190.0,1923.0,463.0,0.23748338502436864,0.5119760479041916,0.0015829448830946505,0.0004652505116744536,0.0697829006445313,-0.051460154646073564

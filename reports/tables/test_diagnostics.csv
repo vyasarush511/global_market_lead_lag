@@ -1,0 +1,2 @@
+index,days,invested_days,exposure,long_days,short_days,cash_days,num_trades,avg_daily_turnover,invested_win_rate,avg_invested_return,median_invested_return,best_day,worst_day
+Selected Strategy: Threshold Long Short 5bps,802.0,205.0,0.25561097256857856,72.0,133.0,597.0,294.0,0.4139650872817955,0.5463414634146342,0.003190108502909733,0.0016421687709453074,0.10754633617011655,-0.02569746699034431

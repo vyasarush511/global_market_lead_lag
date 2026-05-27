@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "global-market-lead-lag"
+version = "0.1.0"
+description = "Research pipeline for Japan/U.S. equity market lead-lag analysis."
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "yfinance",
+    "matplotlib",
+    "seaborn",
+    "statsmodels",
+    "scikit-learn",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,5 @@
+strategy,folds_selected
+Threshold Long Short 10bps,16
+Threshold Long Only 5bps,9
+Threshold Long Only 10bps,6
+Threshold Long Short 5bps,5
